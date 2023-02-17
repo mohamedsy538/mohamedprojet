@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+UL{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+}
+
+header{
+    background-image: url(../image/IMG_1723.jpg);
+}
